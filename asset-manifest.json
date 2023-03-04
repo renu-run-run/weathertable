@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weathertable/static/css/main.5b31b260.css",
+    "main.js": "/weathertable/static/js/main.5c218809.js",
+    "static/js/787.696e6608.chunk.js": "/weathertable/static/js/787.696e6608.chunk.js",
+    "index.html": "/weathertable/index.html",
+    "main.5b31b260.css.map": "/weathertable/static/css/main.5b31b260.css.map",
+    "main.5c218809.js.map": "/weathertable/static/js/main.5c218809.js.map",
+    "787.696e6608.chunk.js.map": "/weathertable/static/js/787.696e6608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b31b260.css",
+    "static/js/main.5c218809.js"
+  ]
+}
